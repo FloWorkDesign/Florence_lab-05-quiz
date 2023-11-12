@@ -2,69 +2,36 @@
 
 1. How do you change your current working directory in the command line?
    a) cd
-   b) change
-   c) dir
-   d) wd
 
 2. What command is used to remove a file in the command line?
    a) rm
-   b) delete
-   c) erase
-   d) del
 
 3. What command is used to check the status of changes in your Git repository?
    a) git status
-   b) git check
-   c) git changes
-   d) git diff
 
 4. What is the purpose of the "git pull" command?
-   a) Push changes to a remote repository
-   b) Clone a repository
    c) Fetch changes from a remote repository and merge them
-   d) View commit history
 
 5. How do you initialize a new Git repository in a directory?
-   a) git start
-   b) git create
    c) git init
-   d) git new
 
 6. Which Git command is used to push changes to a remote repository?
-   a) git pull
-   b) git upload
    c) git push
-   d) git send
 
 7. What does the "pwd" command stand for?
-   a) Print Working Directory
    b) Present Working Directory
-   c) Print Directory
-   d) Path Working Directory
 
 8. What command is used to create a new directory?
-   a) tar
-   b) curl
    c) mkdir
-   d) ls
 
 9. What does the ">>" operator do in the command line?
-   a) Redirects output to a file, overwriting the file's content
    b) Redirects output to a file, appending to the file's content
-   c) Combines two files into one
-   d) Creates a new file
 
 10. How do you clone a Git repository from a remote server?
-    a) git fetch
-    b) git copy
     c) git clone
-    d) git download
 
 11. What command is used to commit changes in Git?
-    a) git push
     b) git commit
-    c) git save
-    d) git snapshot
 
 12. What is the purpose of the "git fetch" command?
     a) Fetches changes from a remote repository
